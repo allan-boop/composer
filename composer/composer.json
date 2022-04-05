@@ -1,0 +1,16 @@
+{
+    "name": "allan/composer",
+    "description": "composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "allan",
+            "email": "allan.hans68350@gmail.com"
+        }
+    ],
+    "require": {}
+}
